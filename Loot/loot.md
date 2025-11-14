@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|1124|Goldmünzen|-|
+|Gold|Verschiedene Orte|1274|Goldmünzen|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|-|
 |Scroll chromatic poison orb|Level 3, 911, Schlangentempel|25|Spell-scroll|-|
 |Rations|Level3|None|4total|-|
@@ -17,12 +17,11 @@
 |Scroll Magic Jar|Level1|-|Lvl6 spell, fehlerhafte anleitung drum herum|-|
 |Phiole-Phylakterie|Level1|-|Für Lich-Erschaffung|Maeril|
 |Wizard Spellbook|Level1|-|Book from Heroes party|Maeril|
-|Javelin of lightning|Naga-grab|-|in homebrew-channel|Kalypso|
 |Lightning in a bottle|Naga-grab|-|in homebrew-channel|Kalypso|
 |Bag of marbles|Naga-grab|-|in homebrew-channel|Maeril|
 |Potion of healing|Naga-grab|-|3x|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
+|Hand of the Ghoul|Waterfall Chemical Room|-|See homebrew channel|-|
+|Ring of the best friend|Waterfall Chemical Room|-|See homebrew channel|Celeste|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
