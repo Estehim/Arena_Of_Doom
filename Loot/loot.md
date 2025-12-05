@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|2174|Goldmünzen|-|
+|Gold|Verschiedene Orte|174|Goldmünzen|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|-|
 |Scroll chromatic poison orb|Level 3, 911, Schlangentempel|25|Spell-scroll|-|
 |Rations|Level3|None|4total|-|
