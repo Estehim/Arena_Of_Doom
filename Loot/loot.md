@@ -1,7 +1,7 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|474|Goldmünzen|-|
-|Tropfen-Rubin|Level1|-|Für tür|-|
+|Gold|Verschiedene Orte|1163|Goldmünzen|-|
+|Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
 |Scroll chromatic poison orb|Level 3, 911, Schlangentempel|25|Spell-scroll|Rao|
@@ -18,10 +18,10 @@
 |4x Angry Coconuts|Lvl3|0|Homebrew channel|1xeach|
 |Angry Palm Sword|Lvl3|0|Homebrew channel|Loona|
 |Ritual dagger|Yuan ti dungeon|300|1x cast yuntai understanding|Loona|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
+|Seeker Darts|Level3|-|Homebrew|3x Rao|
+|Circlet of Blasting|Level3|-|Official|Apollo|
+|Storm Bomerang|Level3|-|Homebrew|Loona|
+|Wand of Entangle|Level3|-|Cast Entangle 7 charges|Loona|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
