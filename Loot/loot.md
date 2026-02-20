@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|3213|Goldmünzen|-|
+|Gold|Verschiedene Orte|5930|Goldmünzen|-|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
@@ -15,7 +15,7 @@
 |Dolch+Kurzschwert|Schlangentempel lvl3|?|normal|Rao|
 |Staff of the Python|Schlangentempel lvl3|official item|summon & command snake|Apollo|
 |Ritual Burial Dagger|Palmentempel|?|Homebrew channel|Rao|
-|4x Angry Coconuts|Lvl3|0|Homebrew channel|1xeach, Rao(-2use)|
+|4x Angry Coconuts|Lvl3|0|Homebrew channel|Apollo,Loona,Celeste|
 |Angry Palm Sword|Lvl3|0|Homebrew channel|Loona|
 |Ritual dagger|Yuan ti dungeon|300|1x cast yuntai understanding|Loona|
 |Seeker Darts|Level3|-|Homebrew|3x Rao|
