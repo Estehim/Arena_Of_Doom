@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|7166|Goldmünzen|-|
+|Gold|Verschiedene Orte|916|Goldmünzen|-|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
@@ -16,7 +16,7 @@
 |Staff of the Python|Schlangentempel lvl3|official item|summon & command snake|Apollo|
 |Ritual Burial Dagger|Palmentempel|?|Homebrew channel|Rao|
 |2x Angry Coconuts|Lvl3|0|Homebrew channel|Apollo,Celeste|
-|Angry Palm Sword|Lvl3|0|Homebrew channel|Loona|
+|Angry Palm Sword|Lvl3|0|Homebrew channel|Loona Valkor|
 |Ritual dagger|Yuan ti dungeon|300|1x cast yuntai understanding|Loona|
 |Seeker Darts|Level3|-|Homebrew|3x Rao|
 |Circlet of Blasting|Level3|-|Official|Apollo|
@@ -30,12 +30,18 @@
 |Scroll Acid-Stream 2x|Level3|-|Scroll|Celeste|
 |Dodecahedron of Doom|Level3|-|Official|Rao|
 |Iron Bands of Bilarro|Level3|-|Homebrew|Loona|
-|Gargyole Hand|Level3|-|Quest-Item|Rao|
 |Decanter of endless Water|Level3|-|Official|Apollo|
 |Scepter of the Embalmed Drow Ambassador|Level3|-|Homebrew|Apollo|
 |Scroll Fireball,Pulse Wave, Lightning Bolt|Level3|-|Official|Apollo|
-|Key 2|Level3|-|Opens door in subdungeon|Apollo|
 |Naga's Caduceus of Rebirth|Level3|-|Homebrew|Apollo|
+|Wand of Lightning Bolts |Level3|-|Official|Rao|
+|Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|oona|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
