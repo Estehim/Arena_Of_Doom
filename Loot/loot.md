@@ -17,7 +17,7 @@
 |Ritual Burial Dagger|Palmentempel|?|Homebrew channel|Rao|
 |2x Angry Coconuts|Lvl3|0|Homebrew channel|Apollo,Celeste|
 |Angry Palm Sword|Lvl3|0|Homebrew channel|Loona Valkor|
-|Ritual dagger|Yuan ti dungeon|300|1x cast yuntai understanding|Loona|
+|Ritual dagger|Yuan ti dungeon|300|1x cast yuanti understanding|Loona|
 |Seeker Darts|Level3|-|Homebrew|3x Rao|
 |Circlet of Blasting|Level3|-|Official|Apollo|
 |Storm Bomerang|Level3|-|Homebrew|Loona|
@@ -33,10 +33,13 @@
 |Decanter of endless Water|Level3|-|Official|Apollo|
 |Scepter of the Embalmed Drow Ambassador|Level3|-|Homebrew|Apollo|
 |Scroll Fireball,Pulse Wave, Lightning Bolt|Level3|-|Official|Apollo|
-|Naga's Caduceus of Rebirth|Level3|-|Homebrew|Apollo|
+|Naga's Caduceus of Rebirth|Level3|-|Homebrew, contains Diamonds|Apollo|
 |Wand of Lightning Bolts |Level3|-|Official|Rao|
-|Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|oona|
-|-|-|-|-|-|
+|Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Loona|
+|Ring of Fire|Level0|-|-Homebrew|Loona|
+|Ring of Ice|Level0|-|-Homebrew|Loona|
+|Ring of Stone|Level0|-|-Homebrew|Loona|
+|Ring of Wind|Level0|-|-Homebrew|Loona|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
