@@ -16,7 +16,7 @@
 |Staff of the Python|Schlangentempel lvl3|official item|summon & command snake|Apollo|
 |Ritual Burial Dagger|Palmentempel|?|Homebrew channel|Rao|
 |2x Angry Coconuts|Lvl3|0|Homebrew channel|Apollo,Celeste|
-|Angry Palm Sword|Lvl3|0|Homebrew channel|Loona Valkor|
+|Angry Palm Sword|Lvl3|0|Homebrew channel|Valkor|
 |Ritual dagger|Yuan ti dungeon|300|1x cast yuanti understanding|Loona|
 |Seeker Darts|Level3|-|Homebrew|3x Rao|
 |Circlet of Blasting|Level3|-|Official|Apollo|
@@ -36,16 +36,15 @@
 |Naga's Caduceus of Rebirth|Level3|-|Homebrew, contains Diamonds|Apollo|
 |Wand of Lightning Bolts |Level3|-|Official|Rao|
 |Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Loona|
-|Ring of Fire|Level0|-|-Homebrew|Loona|
-|Ring of Ice|Level0|-|-Homebrew|Loona|
-|Ring of Stone|Level0|-|-Homebrew|Loona|
-|Ring of Wind|Level0|-|-Homebrew|Loona|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
+|Ring of Fire|Level0|-|Homebrew|Loona|
+|Ring of Ice|Level0|-|Homebrew|Loona|
+|Ring of Stone|Level0|-|Homebrew|Loona|
+|Ring of Wind|Level0|-|Homebrew|Loona|
+|Oil of Sharpness|Level1, False Wurm|-|Homebrew|Celeste|
+|Ring of Lethal Precision|Level1, False Wurm|-|Homebrew|Celeste|
+|Potion of Exploding Power|Level1, False Wurm|-|Homebrew|Celeste|
+|Biotic Grenade|Level1, False Wurm|-|Homebrew|Celeste|
+|Meteoric Mace|Level1, False Wurm|-|Homebrew|Celeste|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
