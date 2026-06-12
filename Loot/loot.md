@@ -27,11 +27,11 @@
 |Ghost Touch Balm (2x)|Level3|-|Homebrew|Apollo|
 |Bullette Frail Essence|Level3|-|Craft 1x Uncommon Magic Item|Rao|
 |Mithril Incense Censer|Level 3|-|Summon Jo-Baya|Loona|
-|Scroll Grease,Fog Cloud, Immovable Object, Web, Warp Sense|Level3|-|Scroll|Rao|
+|Scroll Grease,Fog Cloud, Immovable Object, Warp Sense|Level3|-|Scroll|Rao|
 |Scroll Acid-Stream 2x|Level3|-|Scroll|Celeste|
 |Dodecahedron of Doom|Level3|-|Official|Rao|
 |Iron Bands of Bilarro|Level3|-|Homebrew|Loona|
-|Decanter of endless Water|Level3|-|Official|Apollo|
+|Decanter of endless Water|Level3|-|Official|Celeste|
 |Scepter of the Embalmed Drow Ambassador|Level3|-|Homebrew|Apollo|
 |Scroll Pulse Wave, Lightning Bolt|Level3|-|Official|Apollo|
 |Naga's Caduceus of Rebirth|Level3|-|Homebrew, contains Diamonds|Apollo|
