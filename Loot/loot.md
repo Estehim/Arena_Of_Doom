@@ -14,40 +14,40 @@
 |Ring of the best friend|Waterfall Chemical Room|-|See homebrew channel|Celeste|
 |Ring of Protection|Desert|-|See homebrew channel|Mehvahar|
 |Dolch+Kurzschwert|Schlangentempel lvl3|?|normal|Rao|
-|Staff of the Python|Schlangentempel lvl3|official item|summon & command snake|Apollo|
+|Staff of the Python|Schlangentempel lvl3|official item|summon & command snake|Celeste|
 |Ritual Burial Dagger|Palmentempel|?|Homebrew channel|Rao|
-|2x Angry Coconuts|Lvl3|0|Homebrew channel|Apollo,Celeste|
+|2x Angry Coconuts|Lvl3|0|Homebrew channel|Rao,Celeste|
 |Angry Palm Sword|Lvl3|0|Homebrew channel|Valkor|
-|Ritual dagger|Yuan ti dungeon|300|1x cast yuanti understanding|Loona|
+|Ritual dagger|Yuan ti dungeon|300|1x cast yuanti understanding|Celeste|
 |Seeker Darts|Level3|-|Homebrew|3x Rao|
-|Circlet of Blasting|Level3|-|Official|Apollo|
-|Storm Bomerang|Level3|-|Homebrew|Loona|
-|Wand of Entangle|Level3|-|Cast Entangle 7 charges|Loona|
+|Circlet of Blasting|Level3|-|Official|Celeste|
+|Storm Bomerang|Level3|-|Homebrew|Celeste|
+|Wand of Entangle|Level3|-|Cast Entangle 7 charges|Celeste|
 |Anti Pretification Potion|Level3|-|From Cocatrix, cures Petrification|Celeste|
-|Ghost Touch Balm (2x)|Level3|-|Homebrew|Apollo|
+|Ghost Touch Balm (2x)|Level3|-|Homebrew|Celeste|
 |Bullette Frail Essence|Level3|-|Craft 1x Uncommon Magic Item|Rao|
-|Mithril Incense Censer|Level 3|-|Summon Jo-Baya|Loona|
 |Scroll Grease,Fog Cloud, Immovable Object, Warp Sense|Level3|-|Scroll|Rao|
 |Scroll Acid-Stream 2x|Level3|-|Scroll|Celeste|
 |Dodecahedron of Doom|Level3|-|Official|Rao|
-|Iron Bands of Bilarro|Level3|-|Homebrew|Loona|
+|Iron Bands of Bilarro|Level3|-|Homebrew|Celeste|
 |Decanter of endless Water|Level3|-|Official|Celeste|
-|Scepter of the Embalmed Drow Ambassador|Level3|-|Homebrew|Apollo|
-|Scroll Pulse Wave, Lightning Bolt|Level3|-|Official|Apollo|
-|Naga's Caduceus of Rebirth|Level3|-|Homebrew, contains Diamonds|Apollo|
+|Scepter of the Embalmed Drow Ambassador|Level3|-|Homebrew|Celeste|
+|Scroll Pulse Wave, Lightning Bolt|Level3|-|Official|Rao|
+|Naga's Caduceus of Rebirth|Level3|-|Homebrew, contains Diamonds|Celeste|
 |Wand of Lightning Bolts |Level3|-|Official|Rao|
-|Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Loona|
-|Ring of Fire|Level0|-|Homebrew|Loona|
-|Ring of Ice|Level0|-|Homebrew|Loona|
-|Ring of Stone|Level0|-|Homebrew|Loona|
-|Ring of Wind|Level0|-|Homebrew|Loona|
+|Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Celeste|
+|Ring of Fire|Level0|-|Homebrew|Rao|
+|Ring of Ice|Level0|-|Homebrew|Rao|
+|Ring of Stone|Level0|-|Homebrew|Rao|
+|Ring of Wind|Level0|-|Homebrew|Rao|
 |Oil of Sharpness|Level1, False Wurm|-|Homebrew|Celeste|
-|Ring of Lethal Precision|Level1, False Wurm|-|Homebrew|Apollo|
+|Ring of Lethal Precision|Level1, False Wurm|-|Homebrew|Rao|
 |Potion of Exploding Power|Level1, False Wurm|-|Homebrew|Celeste|
 |Biotic Grenade|Level1, False Wurm|-|Homebrew|Celeste|
-|Meteoric Mace|Level1, False Wurm|-|Homebrew|Loona|
-|-|-|-|-|-|
-|-|-|-|-|-|
+|Meteoric Mace|Level1, False Wurm|-|Homebrew|Celeste|
+|Scroll of the Skyfallen|Level1, Golden Palace|-|Homebrew|Celeste|
+|Jar of Lightningflies|Level1, Golden Palace|-|Homebrew|Celeste|
+|Cataclysmic Beacon|Level1, Golden Palace|-|Homebrew|Celeste|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
