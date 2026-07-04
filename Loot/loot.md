@@ -48,8 +48,8 @@
 |Scroll of the Skyfallen|Level1, Golden Palace|-|Homebrew|Celeste|
 |Jar of Lightningflies|Level1, Golden Palace|-|Homebrew|Celeste|
 |Cataclysmic Beacon|Level1, Golden Palace|-|Homebrew|Celeste|
-|-|-|-|-|-|
-|-|-|-|-|-|
+|Wand of Magic Missile|Level2, Waterlibrary|-|Official|Rao|
+|Bartho Improvised Spellbokk|Level2, living room|-|Homebrew|Nepha|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
