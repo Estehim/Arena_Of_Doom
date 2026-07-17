@@ -41,7 +41,7 @@
 |Ring of Stone|Level0|-|Homebrew|Rao|
 |Ring of Wind|Level0|-|Homebrew|Rao|
 |Oil of Sharpness|Level1, False Wurm|-|Homebrew|Celeste|
-|Ring of Lethal Precision|Level1, False Wurm|-|Homebrew|Rao|
+|Ring of Lethal Precision|Level1, False Wurm|-|Homebrew|Brug|
 |Potion of Exploding Power|Level1, False Wurm|-|Homebrew|Celeste|
 |Biotic Grenade|Level1, False Wurm|-|Homebrew|Celeste|
 |Meteoric Mace|Level1, False Wurm|-|Homebrew|Celeste|
@@ -49,7 +49,7 @@
 |Jar of Lightningflies|Level1, Golden Palace|-|Homebrew|Celeste|
 |Cataclysmic Beacon|Level1, Golden Palace|-|Homebrew|Celeste|
 |Wand of Magic Missile|Level2, Waterlibrary|-|Official|Rao|
-|Bartho Improvised Spellbokk|Level2, living room|-|Homebrew|Nepha|
+|Bartho Improvised Spellbook|Level2, living room|-|Homebrew|Nepha|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
