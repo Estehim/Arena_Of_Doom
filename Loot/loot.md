@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|3616/12000|Goldmünzen|-|
+|Gold|Verschiedene Orte|5616/12000|Goldmünzen|-|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
@@ -44,13 +44,13 @@
 |Ring of Lethal Precision|Level1, False Wurm|-|Homebrew|Brug|
 |Potion of Exploding Power|Level1, False Wurm|-|Homebrew|Celeste|
 |Biotic Grenade|Level1, False Wurm|-|Homebrew|Celeste|
-|Meteoric Mace|Level1, False Wurm|-|Homebrew|Celeste|
+|Meteoric Mace|Level1, False Wurm|-|Homebrew|Nepha|
 |Scroll of the Skyfallen|Level1, Golden Palace|-|Homebrew|Celeste|
 |Jar of Lightningflies|Level1, Golden Palace|-|Homebrew|Celeste|
 |Cataclysmic Beacon|Level1, Golden Palace|-|Homebrew|Celeste|
 |Wand of Magic Missile|Level2, Waterlibrary|-|Official|Rao|
 |Bartho Improvised Spellbook|Level2, living room|-|Homebrew|Nepha|
-|-|-|-|-|-|
+|Quintessence Space|Level2, Wizards experiment|-|Key Item|Rao|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
