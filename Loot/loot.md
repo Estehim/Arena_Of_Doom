@@ -51,8 +51,9 @@
 |Wand of Magic Missile|Level2, Waterlibrary|-|Official|Rao|
 |Bartho Improvised Spellbook|Level2, living room|-|Homebrew|Nepha|
 |Quintessence Space|Level2, Wizards experiment|-|Key Item|Rao|
-|-|-|-|-|-|
-|-|-|-|-|-|
+|Quintessence Gravity|Level2, Wizards experiment|-|Key Item|Rao|
+|Bone Card Insurance|Level2|-|Call Insurance Company|Celeste|
+|Immovable Rod|Level2|-|Official|Celeste|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
