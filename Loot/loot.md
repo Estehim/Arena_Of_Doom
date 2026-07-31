@@ -54,6 +54,10 @@
 |Quintessence Gravity|Level2, Wizards experiment|-|Key Item|Rao|
 |Bone Card Insurance|Level2|-|Call Insurance Company|Celeste|
 |Immovable Rod|Level2|-|Official|Celeste|
+|Potion of Invulnerability?|Level2 alchemic labotary|-|Official|Nepha|
+|Potion of Giant Strength Frost 2x|Level2 alchemic labotary|-|Official|Brug|
+|Potion of Haste 3x|Level2 alchemic labotary|-|Official|Brug|
+|-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
