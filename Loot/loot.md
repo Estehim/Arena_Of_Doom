@@ -52,6 +52,7 @@
 |Bartho Improvised Spellbook|Level2, living room|-|Homebrew|Nepha|
 |Quintessence Space|Level2, Wizards experiment|-|Key Item|Rao|
 |Quintessence Gravity|Level2, Wizards experiment|-|Key Item|Rao|
+|Bag of Infinity|Level2, Wizards experiment|-|Bag of holding?|Nepha|
 |Bone Card Insurance|Level2|-|Call Insurance Company|Celeste|
 |Immovable Rod|Level2|-|Official|Celeste|
 |Potion of Invulnerability?|Level2 alchemic labotary|-|Official|Nepha|
