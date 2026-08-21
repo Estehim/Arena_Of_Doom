@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|5616/12000|Goldmünzen|-|
+|Gold|Verschiedene Orte|6616/12000|Goldmünzen|-|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
@@ -16,7 +16,7 @@
 |Dolch+Kurzschwert|Schlangentempel lvl3|?|normal|Rao|
 |Staff of the Python|Schlangentempel lvl3|official item|summon & command snake|Celeste|
 |Ritual Burial Dagger|Palmentempel|?|Homebrew channel|Rao|
-|2x Angry Coconuts|Lvl3|0|Homebrew channel|Rao,Celeste|
+|Angry Coconut|Lvl3|0|Homebrew channel|Celeste|
 |Angry Palm Sword|Lvl3|0|Homebrew channel|Valkor|
 |Ritual dagger|Yuan ti dungeon|300|1x cast yuanti understanding|Celeste|
 |Seeker Darts|Level3|-|Homebrew|3x Rao|
@@ -32,7 +32,7 @@
 |Iron Bands of Bilarro|Level3|-|Homebrew|Celeste|
 |Decanter of endless Water|Level3|-|Official|Celeste|
 |Scepter of the Embalmed Drow Ambassador|Level3|-|Homebrew|Celeste|
-|Scroll Pulse Wave, Lightning Bolt|Level3|-|Official|Rao|
+|Scroll Lightning Bolt|Level3|-|Official|Rao|
 |Naga's Caduceus of Rebirth|Level3|-|Homebrew, contains Diamonds|Celeste|
 |Wand of Lightning Bolts |Level3|-|Official|Rao|
 |Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Celeste|
@@ -44,21 +44,20 @@
 |Ring of Lethal Precision|Level1, False Wurm|-|Homebrew|Brug|
 |Potion of Exploding Power|Level1, False Wurm|-|Homebrew|Celeste|
 |Biotic Grenade|Level1, False Wurm|-|Homebrew|Celeste|
-|Meteoric Mace|Level1, False Wurm|-|Homebrew|Nepha|
+|Meteoric Mace|Level1, False Wurm|-|Homebrew|Brug|
 |Scroll of the Skyfallen|Level1, Golden Palace|-|Homebrew|Celeste|
 |Jar of Lightningflies|Level1, Golden Palace|-|Homebrew|Celeste|
 |Cataclysmic Beacon|Level1, Golden Palace|-|Homebrew|Celeste|
 |Wand of Magic Missile|Level2, Waterlibrary|-|Official|Rao|
-|Bartho Improvised Spellbook|Level2, living room|-|Homebrew|Nepha|
+|Bartho Improvised Spellbook|Level2, living room|-|Homebrew|Ruben|
 |Quintessence Space|Level2, Wizards experiment|-|Key Item|Rao|
 |Quintessence Gravity|Level2, Wizards experiment|-|Key Item|Rao|
-|Bag of Infinity|Level2, Wizards experiment|-|Bag of holding?|Nepha|
+|Bag of Infinity|Level2, Wizards experiment|-|Bag of holding?|Brug|
 |Bone Card Insurance|Level2|-|Call Insurance Company|Celeste|
 |Immovable Rod|Level2|-|Official|Celeste|
-|Potion of Invulnerability?|Level2 alchemic labotary|-|Official|Nepha|
 |Potion of Giant Strength Frost 2x|Level2 alchemic labotary|-|Official|Brug|
 |Potion of Haste 3x|Level2 alchemic labotary|-|Official|Brug|
-|-|-|-|-|-|
+|Chicken Eggs 10x|Level2|-|Eggs|Brug|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
