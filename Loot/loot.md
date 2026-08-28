@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|6616/12000|Goldmünzen|-|
+|Gold|Verschiedene Orte|6732/12000|Goldmünzen|-|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
@@ -16,11 +16,10 @@
 |Dolch+Kurzschwert|Schlangentempel lvl3|?|normal|Rao|
 |Staff of the Python|Schlangentempel lvl3|official item|summon & command snake|Celeste|
 |Ritual Burial Dagger|Palmentempel|?|Homebrew channel|Rao|
-|Angry Coconut|Lvl3|0|Homebrew channel|Celeste|
 |Angry Palm Sword|Lvl3|0|Homebrew channel|Valkor|
 |Ritual dagger|Yuan ti dungeon|300|1x cast yuanti understanding|Celeste|
 |Seeker Darts|Level3|-|Homebrew|3x Rao|
-|Circlet of Blasting|Level3|-|Official|Celeste|
+|Circlet of Blasting|Level3|-|Official|Apollo|
 |Storm Bomerang|Level3|-|Homebrew|Celeste|
 |Wand of Entangle|Level3|-|Cast Entangle 7 charges|Celeste|
 |Anti Pretification Potion|Level3|-|From Cocatrix, cures Petrification|Celeste|
@@ -38,13 +37,12 @@
 |Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Celeste|
 |Ring of Fire|Level0|-|Homebrew|Rao|
 |Ring of Ice|Level0|-|Homebrew|Rao|
-|Ring of Stone|Level0|-|Homebrew|Rao|
 |Ring of Wind|Level0|-|Homebrew|Rao|
 |Oil of Sharpness|Level1, False Wurm|-|Homebrew|Celeste|
 |Ring of Lethal Precision|Level1, False Wurm|-|Homebrew|Brug|
 |Potion of Exploding Power|Level1, False Wurm|-|Homebrew|Celeste|
 |Biotic Grenade|Level1, False Wurm|-|Homebrew|Celeste|
-|Meteoric Mace|Level1, False Wurm|-|Homebrew|Brug|
+|Meteoric Mace|Level1, False Wurm|-|Homebrew|Apollo|
 |Scroll of the Skyfallen|Level1, Golden Palace|-|Homebrew|Celeste|
 |Jar of Lightningflies|Level1, Golden Palace|-|Homebrew|Celeste|
 |Cataclysmic Beacon|Level1, Golden Palace|-|Homebrew|Celeste|
@@ -58,6 +56,6 @@
 |Potion of Giant Strength Frost 2x|Level2 alchemic labotary|-|Official|Brug|
 |Potion of Haste 3x|Level2 alchemic labotary|-|Official|Brug|
 |Chicken Eggs 10x|Level2|-|Eggs|Brug|
-|-|-|-|-|-|
+|Octopode Skin|Mermaid Quest|-|Homebrew|Brug|
 |-|-|-|-|-|
 |-|-|-|-|-|
