@@ -57,5 +57,9 @@
 |Potion of Haste 3x|Level2 alchemic labotary|-|Official|Brug|
 |Chicken Eggs 10x|Level2|-|Eggs|Brug|
 |Octopode Skin|Mermaid Quest|-|Homebrew|Brug|
+|Chaos Mantle|Level0|-|Homebrew|Celeste|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
