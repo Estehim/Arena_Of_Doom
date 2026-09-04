@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|6732/12000|Goldmünzen|-|
+|Gold|Verschiedene Orte|6744/12000|Goldmünzen|-|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
@@ -14,7 +14,7 @@
 |Ring of the best friend|Waterfall Chemical Room|-|See homebrew channel|Celeste|
 |Ring of Protection|Desert|-|See homebrew channel|Mehvahar|
 |Dolch+Kurzschwert|Schlangentempel lvl3|?|normal|Rao|
-|Staff of the Python|Schlangentempel lvl3|official item|summon & command snake|Celeste|
+|Staff of the Python|Schlangentempel lvl3|official item|summon & command snake|Apollo|
 |Ritual Burial Dagger|Palmentempel|?|Homebrew channel|Rao|
 |Angry Palm Sword|Lvl3|0|Homebrew channel|Valkor|
 |Ritual dagger|Yuan ti dungeon|300|1x cast yuanti understanding|Celeste|
@@ -39,26 +39,45 @@
 |Ring of Ice|Level0|-|Homebrew|Rao|
 |Ring of Wind|Level0|-|Homebrew|Rao|
 |Oil of Sharpness|Level1, False Wurm|-|Homebrew|Celeste|
-|Ring of Lethal Precision|Level1, False Wurm|-|Homebrew|Brug|
+|Ring of Lethal Precision|Level1, False Wurm|-|Homebrew|Luna|
 |Potion of Exploding Power|Level1, False Wurm|-|Homebrew|Celeste|
 |Biotic Grenade|Level1, False Wurm|-|Homebrew|Celeste|
-|Meteoric Mace|Level1, False Wurm|-|Homebrew|Apollo|
+|Meteoric Mace|Level1, False Wurm|-|Homebrew|Luna|
 |Scroll of the Skyfallen|Level1, Golden Palace|-|Homebrew|Celeste|
 |Jar of Lightningflies|Level1, Golden Palace|-|Homebrew|Celeste|
-|Cataclysmic Beacon|Level1, Golden Palace|-|Homebrew|Celeste|
+|Cataclysmic Beacon|Level1, Golden Palace|-|Homebrew|Apollo|
 |Wand of Magic Missile|Level2, Waterlibrary|-|Official|Rao|
 |Bartho Improvised Spellbook|Level2, living room|-|Homebrew|Ruben|
 |Quintessence Space|Level2, Wizards experiment|-|Key Item|Rao|
 |Quintessence Gravity|Level2, Wizards experiment|-|Key Item|Rao|
-|Bag of Infinity|Level2, Wizards experiment|-|Bag of holding?|Brug|
+|Bag of Infinity|Level2, Wizards experiment|-|Bag of holding?|Luna|
 |Bone Card Insurance|Level2|-|Call Insurance Company|Celeste|
 |Immovable Rod|Level2|-|Official|Celeste|
-|Potion of Giant Strength Frost 2x|Level2 alchemic labotary|-|Official|Brug|
-|Potion of Haste 3x|Level2 alchemic labotary|-|Official|Brug|
-|Chicken Eggs 10x|Level2|-|Eggs|Brug|
-|Octopode Skin|Mermaid Quest|-|Homebrew|Brug|
+|Potion of Giant Strength Frost 2x|Level2 alchemic labotary|-|Official|Luna|
+|Potion of Haste 3x|Level2 alchemic labotary|-|Official|Luna|
+|Chicken Eggs 10x|Level2|-|Eggs|Luna|
+|Octopode Skin|Mermaid Quest|-|Homebrew|Luna|
 |Chaos Mantle|Level0|-|Homebrew|Celeste|
-|-|-|-|-|-|
+|Dagger+1|Level2|-|Official|Rao|
+|Potion of Healing 4x|Level2|-|Official|Rao|
+|Scroll Antagonize|Level2|-|Official|Rao|
+|Scroll Erupting Earth|Level2|-|Official|Rao|
+|Scroll Major Image|Level2|-|Official|Rao|
+|Half Plate|Level2|-|Official|Apollo|
+|White Eye Emblem|Level2|-|Official|Rao|
+|Fireball Necklace 5x|Level2|-|Official|Luna|
+|Scarlet Mist 3x|Level2|-|does tons of damage|Apollo|
+|Oblivion Essence 3x|Level2|-|does tons of damage|Apollo|
+|Potion of Mind Control|Level2|-|Cast Dominate Monster|Apollo|
+|Potion of Advantage 3x|Level2|-|1x advantage, next hour|Apollo|
+|Love Potion|Level2|-|love at 1st sight, 1h|Apollo|
+|Midnight Tears 2x|Level2|-|Official|Apollo|
+|Potion of Greater Healing 2x|Level2|-||Apollo|
+|Potion of fire breath|Level2|-|breath fire|Apollo|
+|Poison blind 3x|Level2|poisoned+blind 1h||Apollo|
+|Maximixe spell potion|Level2|-|maximize dmg of 1spell, 10min|Apollo|
+|Potion of superior Healing 2x|Level2|-||Apollo|
+|Potion of superior Invisibility 3x|Level2|-||Apollo|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
