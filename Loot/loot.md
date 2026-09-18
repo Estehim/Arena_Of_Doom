@@ -32,7 +32,7 @@
 |Decanter of endless Water|Level3|-|Official|Celeste|
 |Scepter of the Embalmed Drow Ambassador|Level3|-|Homebrew|Celeste|
 |Scroll Lightning Bolt|Level3|-|Official|Rao|
-|Naga's Caduceus of Rebirth|Level3|-|Homebrew, contains Diamonds|Celeste|
+|Naga's Caduceus of Rebirth|Level3|-|Homebrew, contains Diamond(1x)|Celeste|
 |Wand of Lightning Bolts |Level3|-|Official|Rao|
 |Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Celeste|
 |Ring of Fire|Level0|-|Homebrew|Rao|
@@ -59,25 +59,31 @@
 |Octopode Skin|Mermaid Quest|-|Homebrew|Luna|
 |Chaos Mantle|Level0|-|Homebrew|Celeste|
 |Dagger+1|Level2|-|Official|Rao|
-|Potion of Healing 4x|Level2|-|Official|Rao|
+|Potion of Healing 3x|Level2|-|Official|Rao|
 |Scroll Antagonize|Level2|-|Official|Rao|
 |Scroll Erupting Earth|Level2|-|Official|Rao|
 |Scroll Major Image|Level2|-|Official|Rao|
 |Half Plate|Level2|-|Official|Apollo|
 |White Eye Emblem|Level2|-|Official|Rao|
-|Fireball Necklace 5x|Level2|-|Official|Apollo|
+|Fireball Necklace 5x|Level2|-|Official|Luna|
 |Scarlet Mist 3x|Level2|-|does tons of damage|Apollo|
 |Oblivion Essence 3x|Level2|-|does tons of damage|Apollo|
 |Potion of Mind Control|Level2|-|Cast Dominate Monster|Apollo|
 |Potion of Advantage 3x|Level2|-|1x advantage, next hour|Apollo|
 |Love Potion|Level2|-|love at 1st sight, 1h|Apollo|
 |Midnight Tears 2x|Level2|-|Official|Apollo|
-|Potion of Greater Healing 1x|Level2|-||Apollo|
+|Potion of Greater Healing|Level2|-|Official|Apollo|
 |Potion of fire breath|Level2|-|breath fire|Apollo|
-|Poison blind 3x|Level2|poisoned+blind 1h||Apollo|
+|Poison blind 3x|Level2|poisoned+blind 1h|Official|Apollo|
 |Maximixe spell potion|Level2|-|maximize dmg of 1spell, 10min|Apollo|
-|Potion of superior Healing 2x|Level2|-||Apollo|
-|Potion of superior Invisibility 3x|Level2|-||Apollo|
+|Potion of Superior Healing 2x|Level2|-|Official|Apollo|
+|Potion of superior Invisibility 3x|Level2|-|Official|Apollo|
+|Elfblood(Wood,Sea,Eladrin)|Level2 Bloodbank|-|For DNA-Splicer|Rao|
+|Humanblood|Level2 Bloodbank|-|For DNA-Splicer|Rao|
+|Drakeblood|Level2 Bloodbank|-|For DNA-Splicer|Celeste|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
