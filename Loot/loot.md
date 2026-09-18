@@ -72,7 +72,7 @@
 |Potion of Advantage 3x|Level2|-|1x advantage, next hour|Apollo|
 |Love Potion|Level2|-|love at 1st sight, 1h|Apollo|
 |Midnight Tears 2x|Level2|-|Official|Apollo|
-|Potion of Greater Healing 2x|Level2|-||Apollo|
+|Potion of Greater Healing 1x|Level2|-||Apollo|
 |Potion of fire breath|Level2|-|breath fire|Apollo|
 |Poison blind 3x|Level2|poisoned+blind 1h||Apollo|
 |Maximixe spell potion|Level2|-|maximize dmg of 1spell, 10min|Apollo|
