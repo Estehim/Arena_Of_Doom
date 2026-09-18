@@ -65,7 +65,7 @@
 |Scroll Major Image|Level2|-|Official|Rao|
 |Half Plate|Level2|-|Official|Apollo|
 |White Eye Emblem|Level2|-|Official|Rao|
-|Fireball Necklace 5x|Level2|-|Official|Luna|
+|Fireball Necklace 5x|Level2|-|Official|Apollo|
 |Scarlet Mist 3x|Level2|-|does tons of damage|Apollo|
 |Oblivion Essence 3x|Level2|-|does tons of damage|Apollo|
 |Potion of Mind Control|Level2|-|Cast Dominate Monster|Apollo|
