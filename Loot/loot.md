@@ -65,7 +65,7 @@
 |Scroll Major Image|Level2|-|Official|Rao|
 |Half Plate|Level2|-|Official|Apollo|
 |White Eye Emblem|Level2|-|Official|Rao|
-|Fireball Necklace 5x|Level2|-|Official|Luna|
+|Fireball Necklace 5x|Level2|-|Official|Apollo|
 |Scarlet Mist 3x|Level2|-|does tons of damage|Apollo|
 |Oblivion Essence 3x|Level2|-|does tons of damage|Apollo|
 |Potion of Mind Control|Level2|-|Cast Dominate Monster|Apollo|
@@ -81,8 +81,13 @@
 |Elfblood(Wood,Sea,Eladrin)|Level2 Bloodbank|-|For DNA-Splicer|Rao|
 |Humanblood|Level2 Bloodbank|-|For DNA-Splicer|Rao|
 |Drakeblood|Level2 Bloodbank|-|For DNA-Splicer|Celeste|
-|-|-|-|-|-|
-|-|-|-|-|-|
+|Mighty Acidic Morning Star|Level2 Chest|-|Homebrew|Luna|
+|Robe of the Scarlet Mage|Level2 Chest|-|Homebrew|Celeste|
+|Necklace of Missile Deflection|Level2 Chest|-|Homebrew|Noone|
+|Goblin Megabomb 6x|Level2|-|Homebrew|Rao|
+|Goblin Warstaff 2x|Level2|-|Homebrew|Luna|
+|Shield 3x|Level2|-|Homebrew|All|
+|Fireball Barrel|Level2|-|Explodes|Luna|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
