@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|6744/12000|Goldmünzen|-|
+|Gold|Verschiedene Orte|9094/12000|Goldmünzen|-|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
@@ -35,7 +35,6 @@
 |Naga's Caduceus of Rebirth|Level3|-|Homebrew, contains Diamond(1x)|Celeste|
 |Wand of Lightning Bolts |Level3|-|Official|Rao|
 |Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Celeste|
-|Ring of Fire|Level0|-|Homebrew|Rao|
 |Ring of Ice|Level0|-|Homebrew|Rao|
 |Ring of Wind|Level0|-|Homebrew|Rao|
 |Oil of Sharpness|Level1, False Wurm|-|Homebrew|Celeste|
@@ -58,35 +57,43 @@
 |Chicken Eggs 10x|Level2|-|Eggs|Luna|
 |Octopode Skin|Mermaid Quest|-|Homebrew|Luna|
 |Chaos Mantle|Level0|-|Homebrew|Celeste|
-|Dagger+1|Level2|-|Official|Rao|
 |Potion of Healing 3x|Level2|-|Official|Rao|
 |Scroll Antagonize|Level2|-|Official|Rao|
 |Scroll Erupting Earth|Level2|-|Official|Rao|
 |Scroll Major Image|Level2|-|Official|Rao|
 |Half Plate|Level2|-|Official|Apollo|
-|White Eye Emblem|Level2|-|Official|Rao|
-|Fireball Necklace 5x|Level2|-|Official|Apollo|
+|White Eye Emblem|Level2|-|For ID|Rao|
+|Fireball Necklace 4x|Level2|-|Official|Apollo|
 |Scarlet Mist 3x|Level2|-|does tons of damage|Apollo|
 |Oblivion Essence 3x|Level2|-|does tons of damage|Apollo|
 |Potion of Mind Control|Level2|-|Cast Dominate Monster|Apollo|
 |Potion of Advantage 3x|Level2|-|1x advantage, next hour|Apollo|
 |Love Potion|Level2|-|love at 1st sight, 1h|Apollo|
 |Midnight Tears 2x|Level2|-|Official|Apollo|
+|Potion of Greater Healing|Level2|-|Official|Apollo|
 |Potion of fire breath|Level2|-|breath fire|Apollo|
 |Poison blind 3x|Level2|poisoned+blind 1h|Official|Apollo|
 |Maximixe spell potion|Level2|-|maximize dmg of 1spell, 10min|Apollo|
-|Potion of Superior Healing |Level2|-|Official|Apollo|
+|Potion of Superior Healing 2x|Level2|-|Official|Apollo|
 |Potion of superior Invisibility 3x|Level2|-|Official|Apollo|
-|Elfblood(Wood,Sea,Eladrin)|Level2 Bloodbank|-|For DNA-Splicer|Rao|
+|Elfblood(Wood,Eladrin)|Level2 Bloodbank|-|For DNA-Splicer|Rao|
 |Humanblood|Level2 Bloodbank|-|For DNA-Splicer|Rao|
 |Drakeblood|Level2 Bloodbank|-|For DNA-Splicer|Celeste|
-|Mighty Acidic Morning Star|Level2 Chest|-|Homebrew|Luna|
 |Robe of the Scarlet Mage|Level2 Chest|-|Homebrew|Celeste|
 |Necklace of Missile Deflection|Level2 Chest|-|Homebrew|Noone|
-|Goblin Megabomb 6x|Level2|-|Homebrew|Rao|
+|Goblin Megabomb 5x|Level2|-|Homebrew|Rao|
 |Goblin Warstaff 2x|Level2|-|Homebrew|Luna|
 |Shield 3x|Level2|-|Homebrew|All|
 |Fireball Barrel|Level2|-|Explodes|Luna|
+|Horn of Blasting|Level2|-|Official|Luna|
+|Apparatus of Qualish|Level2|-|Official|Luna|
+|Half Plate|Level2|-|Homebrew|Rao|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-|-|-|-|-|
+|-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
