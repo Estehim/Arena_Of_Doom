@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|9094/12000|Goldmünzen|-|
+|Gold|Verschiedene Orte|9225/12000|Goldmünzen|-|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
@@ -32,7 +32,7 @@
 |Decanter of endless Water|Level3|-|Official|Celeste|
 |Scepter of the Embalmed Drow Ambassador|Level3|-|Homebrew|Celeste|
 |Scroll Lightning Bolt|Level3|-|Official|Rao|
-|Naga's Caduceus of Rebirth|Level3|-|Homebrew, contains Diamond(1x)|Celeste|
+|Naga's Caduceus of Rebirth|Level3|-|Homebrew, no more diamond|Celeste|
 |Wand of Lightning Bolts |Level3|-|Official|Rao|
 |Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Celeste|
 |Ring of Ice|Level0|-|Homebrew|Rao|
@@ -57,7 +57,7 @@
 |Chicken Eggs 10x|Level2|-|Eggs|Luna|
 |Octopode Skin|Mermaid Quest|-|Homebrew|Luna|
 |Chaos Mantle|Level0|-|Homebrew|Celeste|
-|Potion of Healing 3x|Level2|-|Official|Rao|
+|Potion of Healing 4x|Level2|-|Official|Rao|
 |Scroll Antagonize|Level2|-|Official|Rao|
 |Scroll Erupting Earth|Level2|-|Official|Rao|
 |Scroll Major Image|Level2|-|Official|Rao|
@@ -88,8 +88,8 @@
 |Horn of Blasting|Level2|-|Official|Luna|
 |Apparatus of Qualish|Level2|-|Official|Luna|
 |Half Plate|Level2|-|Homebrew|Rao|
-|-|-|-|-|-|
-|-|-|-|-|-|
+|DNA-Splicer Dodecahedron|Level2|-|Needed for using Splicer|Luna|
+|Arrow of Monstrosity Slaying|Level2|-|Official|Tomoe|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
