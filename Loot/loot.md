@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|9225/12000|Goldmünzen|-|
+|Gold|Verschiedene Orte|9248/12000|Goldmünzen|-|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
@@ -74,7 +74,6 @@
 |Potion of fire breath|Level2|-|breath fire|Apollo|
 |Poison blind 3x|Level2|poisoned+blind 1h|Official|Apollo|
 |Maximixe spell potion|Level2|-|maximize dmg of 1spell, 10min|Apollo|
-|Potion of Superior Healing|Level2|-|Official|Apollo|
 |Potion of superior Invisibility 3x|Level2|-|Official|Apollo|
 |Elfblood(Wood,Eladrin)|Level2 Bloodbank|-|For DNA-Splicer|Rao|
 |Humanblood|Level2 Bloodbank|-|For DNA-Splicer|Rao|
