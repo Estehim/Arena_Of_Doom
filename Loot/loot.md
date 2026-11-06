@@ -51,7 +51,7 @@
 |Bone Card Insurance|Level2|-|Call Insurance Company|Celeste|
 |Immovable Rod|Level2|-|Official|Celeste|
 |Potion of Giant Strength Frost|Level2 alchemic labotary|-|Official|Loona|
-|Potion of Haste 2x|Level2 alchemic labotary|-|Official|Loona|
+|Potion of Haste|Level2 alchemic labotary|-|Official|Loona|
 |Octopode Skin|Mermaid Quest|-|Homebrew|Loona|
 |Chaos Mantle|Level0|-|Homebrew|Celeste|
 |Potion of Healing 3x|Level2|-|Official|Rao|
@@ -61,7 +61,7 @@
 |Scroll Major Image|Level2|-|Official|Rao|
 |Half Plate|Level2|-|Official|Apollo|
 |White Eye Emblem|Level2|-|For ID|Rao|
-|Fireball Necklace 4x|Level2|-|Official|Apollo|
+|Fireball Necklace 3x|Level2|-|Official|Apollo|
 |Scarlet Mist 3x|Level2|-|does tons of damage|Apollo|
 |Oblivion Essence 3x|Level2|-|does tons of damage|Apollo|
 |Potion of Mind Control|Level2|-|Cast Dominate Monster|Apollo|
