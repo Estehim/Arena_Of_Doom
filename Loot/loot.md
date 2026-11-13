@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|13808/12000|Goldmünzen|-|
+|Gold|Verschiedene Orte|1808/24000|Goldmünzen|Group|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
@@ -11,7 +11,7 @@
 |Scroll Magic Jar|Level1|-|Lvl6 spell, fehlerhafte anleitung drum herum|Rao|
 |Hand of the Ghoul|Waterfall Chemical Room|-|See homebrew channel|Rao|
 |Ring of the best friend|Waterfall Chemical Room|-|See homebrew channel|Celeste|
-|Ring of Protection|Desert|-|See homebrew channel|Mehvahar|
+|Ring of Protection|Desert|-|Official|Mehvahar|
 |Staff of the Python|Schlangentempel lvl3|official item|summon & command snake|Apollo|
 |Ritual Burial Dagger|Palmentempel|?|Homebrew channel|Rao|
 |Angry Palm Sword|Lvl3|0|Homebrew channel|Valkor|
@@ -50,7 +50,6 @@
 |Bag of Infinity|Level2, Wizards experiment|-|Bag of holding?|Loona|
 |Bone Card Insurance|Level2|-|Call Insurance Company|Celeste|
 |Immovable Rod|Level2|-|Official|Celeste|
-|Potion of Giant Strength Frost|Level2 alchemic labotary|-|Official|Loona|
 |Potion of Haste|Level2 alchemic labotary|-|Official|Loona|
 |Octopode Skin|Mermaid Quest|-|Homebrew|Loona|
 |Chaos Mantle|Level0|-|Homebrew|Celeste|
@@ -66,13 +65,11 @@
 |Oblivion Essence 3x|Level2|-|does tons of damage|Apollo|
 |Potion of Mind Control|Level2|-|Cast Dominate Monster|Apollo|
 |Potion of Advantage 2x|Level2|-|1x advantage, next hour|Apollo|
-|Love Potion|Level2|-|love at 1st sight, 1h|Apollo|
 |Midnight Tears 2x|Level2|-|Official|Apollo|
 |Potion of Greater Healing|Level2|-|Official|Apollo|
 |Potion of fire breath|Level2|-|breath fire|Apollo|
 |Poison blind 3x|Level2|poisoned+blind 1h|Official|Apollo|
 |Maximixe spell potion|Level2|-|maximize dmg of 1spell, 10min|Apollo|
-|Potion of superior Invisibility 3x|Level2|-|Official|Apollo|
 |Elfblood(Wood,Eladrin)|Level2 Bloodbank|-|For DNA-Splicer|Rao|
 |Humanblood|Level2 Bloodbank|-|For DNA-Splicer|Rao|
 |Drakeblood|Level2 Bloodbank|-|For DNA-Splicer|Celeste|
@@ -87,7 +84,9 @@
 |DNA-Splicer Dodecahedron|Level2|-|Needed for using Splicer|Loona|
 |Ring of Protection|Goblin Boss|-|Official|Loona|
 |Sage's Signet Bear|Goblin Boss|-|Official|Apollo|
-|Staff of Ruling|Goblin Boss|-|Homebrew|Rao|
+|Ring of Regeneration|Lvl 2 Jotun Troll|-|Official|Celeste|
+|-|-|-|-|-|
+|-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
