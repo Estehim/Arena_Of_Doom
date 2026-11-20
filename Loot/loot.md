@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|1808/24000|Goldmünzen|Group|
+|Gold|Verschiedene Orte|1858/24000|Goldmünzen|Group|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Ring of Protection|Desert|-|Official|Mehvahar|
 |Bartho Improvised Spellbook|Level2, living room|-|Homebrew|Ruben|
