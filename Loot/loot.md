@@ -4,7 +4,7 @@
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Ring of Protection|Desert|-|Official|Mehvahar|
 |Bartho Improvised Spellbook|Level2, living room|-|Homebrew|Ruben|
-|Angry Palm Sword|Lvl3|0|Homebrew channel|Valkor|
+|Javelin of Lightning|Lvl1|0|Homebrew channel|Demon Lord|
 |Scroll poison-spray lvl 11 (3d12)|Level 3, 911, Schlangentempel|15|Spell-scroll|Rao|
 |Tropfen-Rubin 2x|Level1|-|Für tür|Yuan-Ti-Queen + Rao|
 |Scroll chromatic poison orb|Level 3, 911, Schlangentempel|25|Spell-scroll|Rao|
@@ -61,24 +61,26 @@
 |Maximixe spell potion|Level2|-|maximize dmg of 1spell, 10min|Apollo|
 |Sage's Signet Bear|Goblin Boss|-|Official|Apollo|
 |Circlet of Blasting|Level3|-|Official|Apollo|
+
+|Angry Palm Sword|Lvl3|0|Homebrew channel|Galdar|
 |Ritual dagger|Yuan ti dungeon|300|1x cast yuanti understanding|Celeste|
-|Storm Bomerang|Level3|-|Homebrew|Celeste|
-|Wand of Entangle|Level3|-|Cast Entangle 7 charges|Celeste|
+|Storm Bomerang|Level3|-|Homebrew|Fillia|
+|Wand of Entangle|Level3|-|Cast Entangle 7 charges|Puppet|
 |Anti Pretification Potion|Level3|-|From Cocatrix, cures Petrification|Celeste|
 |Ghost Touch Balm (2x)|Level3|-|Homebrew|Celeste|
 |Scroll Acid-Stream 2x|Level3|-|Scroll|Celeste|
 |Iron Bands of Bilarro|Level3|-|Homebrew|Celeste|
 |Decanter of endless Water|Level3|-|Official|Celeste|
 |Scepter of the Embalmed Drow Ambassador|Level3|-|Homebrew|Celeste|
-|Naga's Caduceus of Rebirth|Level3|-|Homebrew, no more diamond|Celeste|
-|Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Celeste|
+|Naga's Caduceus of Rebirth|Level3|-|Homebrew, no more diamond|Base|
+|Prehistoric Figurine of Wondrous Power|Level3|-|Homebrew, Summon Jacinth T-Rex|Base|
 |Oil of Sharpness|Level1, False Wurm|-|Homebrew|Celeste|
 |Potion of Exploding Power|Level1, False Wurm|-|Homebrew|Celeste|
 |Biotic Grenade|Level1, False Wurm|-|Homebrew|Celeste|
 |Scroll of the Skyfallen|Level1, Golden Palace|-|Homebrew|Celeste|
 |Jar of Lightningflies|Level1, Golden Palace|-|Homebrew|Celeste|
 |Bone Card Insurance|Level2|-|Call Insurance Company|Celeste|
-|Immovable Rod|Level2|-|Official|Celeste|
+|Immovable Rod|Level2|-|Official|Base|
 |Chaos Mantle|Level0|-|Homebrew|Celeste|
 |Drakeblood|Level2 Bloodbank|-|For DNA-Splicer|Celeste|
 |Robe of the Scarlet Mage|Level2 Chest|-|Homebrew|Celeste|
