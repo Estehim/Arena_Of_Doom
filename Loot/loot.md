@@ -62,6 +62,8 @@
 |Sage's Signet Bear|Goblin Boss|-|Official|Apollo|
 |Circlet of Blasting|Level3|-|Official|Apollo|
 
+|Name| Location | value in gold | Description | Holder |
+|-|-|-|-|-|
 |Angry Palm Sword|Lvl3|0|Homebrew channel|Galdar|
 |Ritual dagger|Yuan ti dungeon|300|1x cast yuanti understanding|Celeste|
 |Storm Bomerang|Level3|-|Homebrew|Fillia|
