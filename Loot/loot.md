@@ -1,6 +1,6 @@
 |Name| Location | value in gold | Description | Holder |
 |-|-|-|-|-|
-|Gold|Verschiedene Orte|1858/24000|Goldmünzen|Group|
+|Gold|Verschiedene Orte|1338/24000|Goldmünzen|Group|
 |Grabsteinfragment(oben)|Level1|-|Schrift|-|
 |Ring of Protection|Desert|-|Official|Mehvahar|
 |Bartho Improvised Spellbook|Level2, living room|-|Homebrew|Ruben|
@@ -62,14 +62,11 @@
 |Sage's Signet Bear|Goblin Boss|-|Official|Apollo|
 |Circlet of Blasting|Level3|-|Official|Apollo|
 
-|Name| Location | value in gold | Description | Holder |
-|-|-|-|-|-|
 |Angry Palm Sword|Lvl3|0|Homebrew channel|Galdar|
 |Ritual dagger|Yuan ti dungeon|300|1x cast yuanti understanding|Celeste|
 |Storm Bomerang|Level3|-|Homebrew|Fillia|
 |Wand of Entangle|Level3|-|Cast Entangle 7 charges|Puppet|
 |Anti Pretification Potion|Level3|-|From Cocatrix, cures Petrification|Celeste|
-|Ghost Touch Balm (2x)|Level3|-|Homebrew|Celeste|
 |Scroll Acid-Stream 2x|Level3|-|Scroll|Celeste|
 |Iron Bands of Bilarro|Level3|-|Homebrew|Celeste|
 |Decanter of endless Water|Level3|-|Official|Celeste|
@@ -88,8 +85,8 @@
 |Robe of the Scarlet Mage|Level2 Chest|-|Homebrew|Celeste|
 |Necklace of Missile Deflection|Level2 Chest|-|Homebrew|Celeste|
 |Ring of Regeneration|Lvl 2 Jotun Troll|-|Official|Celeste|
-|Ring of the best friend|Waterfall Chemical Room|-|See homebrew channel|Celeste|
-|-|-|-|-|-|
+|Ring of the best friend|Waterfall Chemical Room|-|Homebrew|Celeste|
+|Ghostflame Liquor 4x|Lvl 2 gambling house|-|Homebrew|Celeste|
 |-|-|-|-|-|
 |-|-|-|-|-|
 |-|-|-|-|-|
